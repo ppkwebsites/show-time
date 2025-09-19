@@ -1,6 +1,11 @@
 # show-time
 Shows date and time when pressing shortcut key on hyprland
 
+🫸 Command To Install
+chmod +x show-time.sh    //make script executable
+./show-time.sh install        // run script only once, and after only use shortcut key
+
+
 What Does the Script Do?
 The show-time.sh script:
 Displays the current date and time in a desktop notification using dunst.
